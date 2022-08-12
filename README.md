@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awsomeworld304
-- 👀 I’m interested in becoming a full time developer.
+- 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me: JamesTheProtogen#1525
