@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rowan!
+- 👋 Hi, I’m James!
 - 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on nothing yet, might change in the future.
