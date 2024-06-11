@@ -1,10 +1,10 @@
 My name is James* and I am a programmer.\
 I work in a lot of things but here's a list of languages that I am actively working with:
 - Java
+- Haxe
 - C#
 - C++
 - C
-- Haxe
 - Python
 - GDScript
 - Lua
