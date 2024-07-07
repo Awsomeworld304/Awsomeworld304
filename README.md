@@ -9,6 +9,8 @@ I work in a lot of things but here's a list of languages that I am actively work
 - GDScript
 - Lua
 <!-- md moment -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsomeworld304&show_icons=true&theme=transparent)\
 I like big robots and I so happen to be working on them.\
 You can find the code for that at the [PARTs GitHub](https://github.com/3492PARTs).\
 \
