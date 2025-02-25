@@ -24,7 +24,7 @@ It might look scary, but it's not!\
 Look through GitHubs [Learn To Code](https://github.com/collections/learn-to-code) collection!\
 \
 If you wish to contact me, you can do so by reaching out to me on Discord at:\
-```jamesprototech```\
+```jamestech4849```\
 \
 I'm good at programming, but I'm bad with art.\
 Although I've been working on music in FL Studio 21.\
