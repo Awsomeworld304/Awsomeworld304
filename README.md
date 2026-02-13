@@ -10,7 +10,7 @@ I work in a lot of things but here's a list of languages that I am actively work
 - Lua
 <!-- md moment -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsomeworld304&show_icons=true&theme=transparent)\
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Awsomeworld304?cardType=level&theme=shades-of-purple&fontFamily=Zain&preferLogin=false)](https://git.io/awesome-stats-card)\
 Robots go crazy.\
 You can find the code for that at the [PARTs GitHub](https://github.com/3492PARTs).\
 \
