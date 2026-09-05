@@ -2,10 +2,8 @@ I'm James and I'm a programmer.\
 I'm working to become a software engineer.\
 I enjoy the groove of game development as a break.
 
-I like to work in a lot of different programming languages.
-<!-- md moment -->
+Learning programming with embedded and real-time systems.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Awsomeworld304?cardType=level&theme=shades-of-purple&fontFamily=Zain&preferLogin=false)](https://git.io/awesome-stats-card)\
 Former programmer for the PARTs Robotics Team. Go support them!\
 You can find the code for that at the [PARTs GitHub](https://github.com/3492PARTs).\
 \
